@@ -20,6 +20,9 @@ Tokių programėlių kūrimui yra prieinami keli įrankiai. Vienas jų yra A-fra
     - Apache: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md 
     - Tomcat: http://androidsrc.net/installing-tomcat8-raspberry-pi-3/ 
     - HFS: http://www.rejetto.com/hfs/ 
+
+# Patikra
+  - Veikia su Microsoft Edge ir Mozilla Firefox, bet neeikia su Google Chrome
   
 EN
 There are many open source alternatives to build virtual reality application. One of the web based solution is A-frame. You can try a live examples: https://aframe.io/aframe/examples/
